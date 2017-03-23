@@ -1,0 +1,7 @@
+assets/less/_runtime.less
+assets/compiled
+assets/vendor
+public/assets
+node_modules
+npm-debug.log
+.DS_Store
