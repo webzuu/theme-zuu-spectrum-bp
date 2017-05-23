@@ -1,11 +1,6 @@
 {
   "private": true,
-  "dependencies": {
-    "browser-sync": "^2.18.8",
-    "gulp": "~3.9.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
-  "scripts": {
-    "postinstall": "gulp"
-  }
+  "scripts": {}
 }
